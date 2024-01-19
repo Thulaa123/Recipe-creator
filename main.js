@@ -7,7 +7,7 @@ import './style.css';
 // 🔥 FILL THIS OUT FIRST! 🔥
 // 🔥 GET YOUR GEMINI API KEY AT 🔥
 // 🔥 https://makersuite.google.com/app/apikey 🔥
-let API_KEY = 'AIzaSyDczt9V4wa-PbyEcZEnSAte7KgCSpI8cqE';
+let API_KEY = 'TODO';
 
 let form = document.querySelector('form');
 let promptInput = document.querySelector('input[name="prompt"]');
